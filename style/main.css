@@ -1215,4 +1215,12 @@ footer .footer__copy {
 
 #backtop.backtop-show {
   bottom: 80px;
+}
+
+header {
+  padding: 30px 0;
+}
+
+.navbar-shrink {
+  padding: 20px 0;
 }/*# sourceMappingURL=main.css.map */
